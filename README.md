@@ -10,6 +10,7 @@ Run the following commands to setup the repository locally.
 ```bash
     npm ci
     npm test
+    npm i
 ```
 
 ## Integrating with TAS
